@@ -9,6 +9,8 @@
 
 Hệ thống được thiết kế theo mô hình ETL Pipeline và được điều phối bởi Apache Airflow, chạy trong môi trường container hóa với Docker.
 
+ETL này dùng để thu thập, xử lý và phân tích dữ liệu thể lực nhằm đánh giá và phân loại mức độ sức khỏe của con người.
+
 1.  **Extract (E):** Tải dữ liệu từ file Excel. BodyPerformance.xlsx
 2.  **Transform (T):** Kiểm tra, Làm sạch dữ liệu và tính toán chỉ số BMI
 3.  **Load (L):** Lưu trữ dữ liệu vào **PostgreSQL Data Warehouse**.
