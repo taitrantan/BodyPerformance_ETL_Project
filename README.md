@@ -72,7 +72,8 @@ Chỉ số BMI (Body Mass Index) được tính theo công thức:
 ## Trong đó:
 weight (kg): cân nặng (kilogram)
 height (m): chiều cao (mét)
-📊 Phân loại BMI
+
+Chỉ số khối cơ thể (BMI) theo Tổ chức Y tế Thế giới (WHO)
 
 | BMI Score | BMI Group |
 |------------|--------------|
