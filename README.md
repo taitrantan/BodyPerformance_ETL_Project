@@ -77,7 +77,7 @@ height (m): chiều cao (mét)
 | 18.5-25 | Normal |
 | 25-30 | Overweight |
 | 30-34.9 | Obese |
-| >40 | Extremely Obese |
+| >35 | Extremely Obese |
 
 ## 📂 Kết quả
 
