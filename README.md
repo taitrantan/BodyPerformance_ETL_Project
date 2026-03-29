@@ -70,10 +70,9 @@ Chỉ số BMI (Body Mass Index) được tính theo công thức:
 𝐵𝑀𝐼=𝑤𝑒𝑖𝑔ℎ𝑡(𝑘𝑔)/(ℎ𝑒𝑖ght(𝑚)^2)
 
 ## Trong đó:
-weight (kg): cân nặng (kilogram)
-height (m): chiều cao (mét)
+weight (kg): cân nặng (kilogram), height (m): chiều cao (mét)
 
-Chỉ số khối cơ thể (BMI) theo Tổ chức Y tế Thế giới (WHO)
+Chỉ số khối cơ thể (BMI) theo Tổ chức Y tế Thế giới (WHO):
 
 | BMI Score | BMI Group |
 |------------|--------------|
