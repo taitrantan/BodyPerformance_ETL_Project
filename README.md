@@ -24,8 +24,8 @@ body_etl_project/
 ├── scripts/
 │   ├── load_raw.py            # Đọc Excel và load dữ liệu vào bản raw_body
 │   ├── clean_data.py          # Làm sạch dữ liệu, tính BMI, phân loại BMI
-│   └── load_dw.py                # Load dữ liệu đã xử lý sang Data Warehouse
-│   └── etl_log.py               #Tạo log, validation
+│   └── load_dw.py             # Load dữ liệu đã xử lý sang Data Warehouse
+│   └── etl_log.py             #Tạo log, validation
 ├── data/
 │   └── BodyPerformance.xlsx   # File dữ liệu gốc 
 ├── docker-compose.yaml        # Cấu hình chạy Airflow bằng Docker
